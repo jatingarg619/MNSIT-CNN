@@ -1,0 +1,10 @@
+mnist_cnn/
+├── requirements.txt
+├── HowTo.md
+├── train.py
+├── model.py
+├── templates/
+│   └── index.html
+└── static/
+    └── js/
+        └── chart.js 
